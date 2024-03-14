@@ -4,15 +4,11 @@ This is a simple budget tracker app built using React. It helps users keep track
 
 ## Features
 
-- Add expenses with a name and cost.
-- Delete expenses.
-- Set and update the budget.
+- Add expenses which have a name and a cost
+- Remove expenses
+- View how much of their budget is remaining
+- View how much they've spent so far
 
-## How to Use
-
-- **Adding Expenses**: Click on the "+" button, enter the name and cost of the expense, then click "Add Expense".
-- **Deleting Expenses**: Hover over an expense item and click on the delete icon to remove it.
-- **Setting Budget**: Enter the budget amount in the input field and click "Set Budget" to update.
 
 ## Technologies Used
 
